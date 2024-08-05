@@ -1,3 +1,5 @@
+package Conta;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
